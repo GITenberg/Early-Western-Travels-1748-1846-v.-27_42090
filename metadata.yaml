@@ -1,0 +1,52 @@
+_repo: Early-Western-Travels-1748-1846-v.-27_42090
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Smet, Pierre-Jean de
+    aliases:
+    - De Smet, Pierre-Jean
+    - De Smet, Father (Pierre-Jean)
+    - Blackrobe
+    - DeSmet, Pierre-Jean
+    birthdate: 1801
+    deathdate: 1873
+    gutenberg_agent_id: '44907'
+    url: http://www.gutenberg.org/2009/agents/44907
+  - agent_name: Flagg, Edmund
+    birthdate: 1815
+    deathdate: 1890
+    gutenberg_agent_id: '25731'
+    url: http://www.gutenberg.org/2009/agents/25731
+  editor:
+    agent_name: Thwaites, Reuben Gold
+    alias: Thwaites, R. G. (Reuben Gold)
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '33780'
+    url: http://www.gutenberg.org/2009/agents/33780
+description: ''
+gutenberg_issued: '2013-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Early western travels, 1748-1846, v. 27
+subjects:
+- !lcsh 'Mississippi River Valley -- Description and travel'
+- !lcsh 'Missouri -- Description and travel'
+- !lcsh 'Siksika Indians'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Salish Indians'
+- !lcsh 'Illinois -- Description and travel'
+- !lcsh 'Indians of North America -- Missions'
+- !lcc 'F590.3'
+- !lcsh 'Rocky Mountains'
+title: Flagg's The Far West, 1836-1837, part 2; and De Smet's Letters and Sketches,
+  1841-1842
+url: http://www.gutenberg.org/ebooks/42090
