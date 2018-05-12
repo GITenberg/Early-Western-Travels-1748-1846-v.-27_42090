@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '33780'
     url: http://www.gutenberg.org/2009/agents/33780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42090#Early-Western-Travels-1748-1846-v.-27
 gutenberg_issued: '2013-02-13'
 gutenberg_type: Text
 identifiers:
